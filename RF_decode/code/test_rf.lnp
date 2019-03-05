@@ -1,0 +1,4 @@
+"test_rf.obj",
+".\STARTUP.obj" 
+TO "test_rf" 
+RAMSIZE(256) 
